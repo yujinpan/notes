@@ -10,7 +10,7 @@
 - pitch 前后倾斜弧度
 - roll 左右旋转弧度
 
-例如向视角调整为正俯视，即前后（pitch）逆时针旋转 90 度：
+例如将视角调整为正俯视，即前后（pitch）逆时针旋转 90 度：
 
 ```js
 viewer.camera.setView({
