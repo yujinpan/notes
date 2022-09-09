@@ -4,9 +4,7 @@
 
 参考百科[【航空器三主轴】](https://zh.wikipedia.org/wiki/%E8%88%AA%E7%A9%BA%E5%99%A8%E4%B8%89%E4%B8%BB%E8%BD%B4)
 
-<div style="background: #999;">
-  <img alt="三轴示意图" src="./Yaw_Axis_Corrected.svg" />
-</div>
+![三轴示意图](./yaw_axis.png)
 
 - heading(yaw) 横向旋转弧度
 - pitch 前后倾斜弧度
